@@ -1,0 +1,16 @@
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\bin\Debug\net6.0-windows\Assignment4_Inheritance-Collections.exe
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\bin\Debug\net6.0-windows\Assignment4_Inheritance-Collections.deps.json
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\bin\Debug\net6.0-windows\Assignment4_Inheritance-Collections.runtimeconfig.json
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\bin\Debug\net6.0-windows\Assignment4_Inheritance-Collections.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\bin\Debug\net6.0-windows\Assignment4_Inheritance-Collections.pdb
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\Assignment4_Inheritance-Collections.csproj.GenerateResource.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\Assignment4_Inheritance-Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\Assignment4_Inheritance-Collections.AssemblyInfoInputs.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\Assignment4_Inheritance-Collections.AssemblyInfo.cs
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\Assignment4_Inheritance-Collections.csproj.CoreCompileInputs.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\Assignment4_Inheritance-Collections.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\refint\Assignment4_Inheritance-Collections.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\Assignment4_Inheritance-Collections.pdb
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\Assignment4_Inheritance-Collections.genruntimeconfig.cache
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\ref\Assignment4_Inheritance-Collections.dll
+D:\Directory\Durham College\Semester 3\CLASSES\Object Oriented Programming II\C#\COSC_2100_05\Assignment4_Inheritance-Collections\obj\Debug\net6.0-windows\Assignment4_Inheritance_Collections.Window.resources
